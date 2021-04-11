@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/ernanvr/evr-random-messages/issues"
   },
-  "homepage": "https://github.com/ernanvr/evr-random-messages#readme"
+  "homepage": "https://github.com/ernanvr/evr-random-messages#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
 }
