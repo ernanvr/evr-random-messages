@@ -14,6 +14,14 @@
   "author": "Ernan Velasquez <ernanvr@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
-  }
+    "random-msg": "bin/global.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernanvr/evr-random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ernanvr/evr-random-messages/issues"
+  },
+  "homepage": "https://github.com/ernanvr/evr-random-messages#readme"
 }
